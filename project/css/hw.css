@@ -1,4 +1,4 @@
-.dz1 {
+.dz {
     border: 3px solid orange;
 }
 .gmail__check {
@@ -16,4 +16,11 @@
     background-color: blue;
     width: 50px;
     height: 50px;
+}
+.timer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
 }
